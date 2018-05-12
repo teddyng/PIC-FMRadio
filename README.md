@@ -6,4 +6,4 @@ This project was conducted by Ho Yau, Teddy Ng and Peng Tan
 
 If you find this useful, please visit my LinkedIn page (https://www.linkedin.com/in/teddyng/) to endorsement my skills. To learn about was else I do, please visit my website at http://teddyng.co.uk.
 
-Plagiarism is a serious offense in force by the university, please reference to this code with care.
+Reminder: Plagiarism is a serious offense in force by the university, please reference to this code with care and at your own risk.
